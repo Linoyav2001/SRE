@@ -1,5 +1,5 @@
 USE login_app;
 
 
-INSERT IGNORE INTO users (username, password_hash) 
+INSERT IGNORE INTO users (username, password) 
 VALUES ('AdminSre', 'HelfySre');

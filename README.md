@@ -1,4 +1,4 @@
-# SRE Assignment - Helfy
+# SRE Assignment
 
 This project provides a containerized, end-to-end infrastructure pipeline demonstrating database reliability, event-driven data streaming, and structured system monitoring.
 
